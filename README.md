@@ -1,27 +1,27 @@
 
-
 <!DOCTYPE html>
 <html lang="tr">
 <head> 
 		
-		
+		<body bgcolor="black">
   
 
 
 
 
-                                 <a href="html-nedir"><h1 style="color:rgb(0, 186, 253);">WEB PROGRAMLAMA DERSİ</h1>
-                                 <a href="html-nedir"><h2 style="color:rgb(0, 186, 253);">HTML</h2>
-
-                                  <!-- Thumbnail -->
+                                 <a href="html-nedir"><h1 style="color:rgb(0, 186, 253);">WEB PROGRAMLAMA DERSİ KONU ANLATIMI</h1>
+<!-- Thumbnail -->
                                  <div class="bthumb2">
-                                    <a href="html-nedir"><img src="images/html-nedir.jpg" alt="HTML Nedir?"  title="HTML Nedir?" class="img-responsive"></a>
+                                   <img src="Yeni klasör (2)/IMG_20180524_145728.jpg" width="1400" height="250">
                                  </div>
+
+                                 <a href="html-nedir"><h2 style="color:rgb(0, 186, 253);">HTML</h2></a>
+
+                                
 								 
-<h2>
-    HTML Nedir Ne İşe Yarar?
-</h2>
-<p>
+ <h2 style="color:rgb(0, 186, 253);">Link Özellikleri</h2>
+
+ <p><font  color="white">
 Web dünyasının en önemli konularından biri olan ve bir anlamda vazgeçilmezi diyebileceğimiz bir konuyla karşınızdayız. Açılımı İngilizce olarak ‘    <em>Hyper Text Markup Language</em>’ olan ve ‘<em>Hiper Metin İşaretleme Dili</em>’ şeklinde Türkçe ifade edilen bir metin işaretleme dilidir. Yazımızın
     ilerleyen kısımlarında <strong>Html nedir kısaca</strong> bahsedeceğiz.
 </p>
@@ -59,9 +59,9 @@ Görüldüğü gibi farklı dosya isimleri ve farklı uzantılar kullanılarak g
 <p>
 Html gerçek anlamda bir programlama dili olmamasına karşın yine de belli bir sözdizimi ve kullanımı bulunmaktadır. Bu kurallara uyarak    <strong>Html kodları</strong> yazmak gerekir. Peki <strong>Html kodu nedir</strong>? Bir sonraki başlığa geçip <em>Html</em>’in sözdizimine göz atalım.
 </p>
-<h2>
-    Html Kodu Nedir?
-</h2>
+<h2 style="color:rgb(0, 186, 253);"> HTML Nedir </h2>
+  
+
 <p>
     Html ile web sayfaları oluşturmak çok basittir. Bu dil ile web sayfaları oluşturmaya başlayınca günlük konuşma dilini kullanıyormuşçasına sayfalar
     geliştirebilirsiniz. Bu aşamada <strong>css nedir</strong> sorusu da cevaplanması gereken sorulardandır ama şu an konumuz dışında olduğu için
@@ -71,9 +71,9 @@ Html gerçek anlamda bir programlama dili olmamasına karşın yine de belli bir
     Şimdi artık <strong>Html nasıl kullanılır</strong> sorusuna cevap verebiliriz. Bunun için ‘<em>Notepad</em>’ programını kullanmak oldukça pratik bir çözüm
     olacaktır. Zaten Html ile geliştirilen uygulamaların derlenmesine gerek olmaması bu konuda geliştiricilere büyük kolaylık ve avantajlar sağlamaktadır.
 </p>
-<h3>
-    Html Sayfası Oluşturmak
-</h3>
+<h2 style="color:rgb(0, 186, 253);"> Html Sayfası Oluşturmak</h2>
+    
+
 <p>
     Bir Html sayfası oluşturmak için küçük ve büyük (&lt; &gt;) işaretlerinden sıkça faydalanacağız. O zaman öncelikle &lt; &gt; işaretlerinin arasına ‘html’
 yazmakla başlayalım. Ardından yine (&lt; &gt;) işaretlerini kullanarak <em>html tag</em>’inin içerisine ‘<strong><em>head</em></strong>’ ve ‘<strong><em>body</em></strong>’ <em>tag</em>’lerini yazıyoruz. Burada yazdığımız <em>html, head </em>ve <em>body</em> Html dilinde    <strong><em>tag</em></strong> olarak isimlendirilmektedir.
@@ -109,17 +109,14 @@ yazmakla başlayalım. Ardından yine (&lt; &gt;) işaretlerini kullanarak <em>h
 Yukarıdaki kodları incelediğimiz zaman iç içe geçmiş bir yapı görmekteyiz. En dışta yukarıda belirttiğimiz <strong>&lt;html&gt; &lt;/html&gt;</strong><em>tag</em>’leri yer alıyor. Sonra gelen <em>tag</em> <strong>&lt;head&gt; &lt;/head&gt;</strong> ve daha sonraki <em>tag</em>    <strong>&lt;body&gt; &lt;/body&gt;</strong>’dir. Head <em>tag</em>’i başlık olarak ifade edilirken, body<em> tag’i </em>gövdeyi temsil eder. Yani bir web
     sayfasının başlıkla ilgili verileri head <em>tag</em>’i içerisine, içerik ve görünümle ilgili olanları ise body tag’i içerisine yazıyoruz.
 </p>
-<br/>
-<img alt="HTML Nedir?" class="img-responsive" title="HTML Nedir?" src="images/html-nedir-1.png">
-<br/>
+
 <p>
     Head tag’i içerisinde yer alan <strong>&lt;title&gt; &lt;/title&gt;</strong> <em>tag</em>’i web sayfamızın başlık bilgisini içermektedir. Buraya
 yazacağınız başlık tarayıcının en üstünde görünen başlık olacaktır. Yukarıda verilen kodları <em>Notepad</em>’de yazıp farklı kaydet diyerek “    <strong>Kayıt Türü</strong>” kısmından ‘<strong>Tüm Dosyalar</strong>’ seçilir ve dosya adının sonuna ‘<strong>.html</strong>’ eklenir. Artık oluşan
     dosyamız Html uzantılı olacaktır ve herhangi bir tarayıcıda çalıştırdığınızda açılacaktır.
 </p>
-<h2>
-    Html Örnek Uygulama
-</h2>
+<h2 style="color:rgb(0, 186, 253);"> Html Örnek Uygulama</h2>
+  
 <p>
 Yukarıda yazdığımız örnekten biraz daha farklı bir örnek yaparak konunun biraz daha pekişmesini sağlayalım. Bu örneğimizle birlikte kafanızdaki    <strong>Html nedir</strong> sorusu biraz daha cevaplanmış olacaktır. Bu örneğimiz için yine ‘<em>Notepad</em>’ programını kullanacağız.
 </p>
@@ -143,26 +140,22 @@ bir <em>Notepad</em> açıyoruz ve <strong>&lt;html&gt; &lt;/html&gt;</strong> <
 </p>
 <p>
     Html nedir konulu yazımız için yaptığımız basit bir örnek uygulamadan sonra biraz da farklı bilgilere göz atalım.
-</p>
-<h3>
-    Html Viewer Nedir?
-</h3>
+</p><h2 style="color:rgb(0, 186, 253);">  Html Viewer Nedir</h2>
+
 <p>
     Bu konu daha çok <strong>web programlama dilleri nelerdir</strong>, ne işe yararlar gibi sorulara cevap arayan ve web programlama dünyasına yeni giriş
     yapanların işine yarayacak bir konudur. Peki <strong>Html viewer nedir</strong>? Yalın bir ifade ile açıklayacak olursak, web sayfalarının html dökümlerini
     veren bir uygulamadır. Yani herhangi bir web sayfasının adres bilgisini yazdığınızda size Html kodları veren ve sitede yapılan çalışmaları incelemenize
     olanak sağlayan yapıdır.
 </p>
-<br/>
-<img alt="HTML Nedir?" class="img-responsive" title="HTML Nedir?" src="images/html-nedir-2.png">
-<br/>
+
+
 <p>
     Peki bu bize nasıl bir avantaj sağlayacak? Yukarıda da belirtildiği gibi özellikle yeni başlayanlar için bulunmaz fırsat ve avantajlar içerir. Çünkü günlük
 olarak kullanılan web sayfalarında kullanılan yapı ve teknolojilerin incelenmesi ve bu konudaki bilgi dağarcığının artırılması sağlanacaktır. Böylece    <strong>Html nedir</strong> sorusuna daha kapsamlı ve canlı bir sistem üzerinden cevap aranacaktır.
 </p>
-<h3>
-    Html Tarayıcı Nedir?
-</h3>
+<h2 style="color:rgb(0, 186, 253);"> Html Tarayıcı Nedir?</h2>
+   
 <p>
 İngilizce ‘<em>Web Browser</em>’ olarak bilinen ve ‘<em>Web Tarayıcı</em>’ anlamına gelen bu kavram ile sunucularda yer alan ve konumuz dahilinde olan    <strong>Html sayfaları</strong>nın görüntülenmesini sağlayan programlardır. Html olarak hazırlanan sayfaların son kullanıcıların anlayacağı şekilde
     dönüşümü tarayıcılarla sağlanmaktadır. Standart bir web tarayıcıda bulunan genel özellikleri aşağıda görebilirsiniz.
@@ -202,9 +195,9 @@ olarak kullanılan web sayfalarında kullanılan yapı ve teknolojilerin incelen
 <p>
     Yukarıda bahsedilen özellikler hemen her <strong>web tarayıcı</strong>da var olan genel özellikler arasındadır.
 </p>
-<h3>
-    Web Tarayıcı Kullanıcı Arabirimleri
-</h3>
+<h2 style="color:rgb(0, 186, 253);">  Web Tarayıcı Kullanıcı Arabirimleri</h2>
+ 
+
 <p>
     Web tarayıcılarda kullanılan kullanıcı arabirimleri olarak,
 </p>
@@ -229,15 +222,12 @@ olarak kullanılan web sayfalarında kullanılan yapı ve teknolojilerin incelen
         Ziyaret edilmek istenen sayfanın bağlantı durumlarını gösteren ve sayfayı yakınlaştırmaya yarayan <strong>Durum çubuğu</strong> yazılabilir.
     </li>
 </ul>
-<br/>
-<center><img alt="HTML Nedir?" class="img-responsive" title="HTML Nedir?" src="images/html-nedir-3.jpg"></center>
-<br/>
+
 <p>
 Günümüzde kullanılan birçok web tarayıcı çeşidi bulunmaktadır. Bunlar arasında en çok kullanılanları <strong><em>Internet Explorer</em></strong>,    <strong><em>Google Chrome</em></strong>, <strong><em>Firefox</em></strong> ve <strong><em>Opera</em></strong>’dır.
 </p>
-<h2>
-    Html Eğitimi
-</h2>
+<h2 style="color:rgb(0, 186, 253);">  Html Eğitimi</h2>
+   
 <p>
     Bu yazımızda sizlerle "<strong><em>Html nedir?</em>"</strong> sorusuna cevap aradık. Genel tanımlamalardan sonra <strong>Html basit site</strong>
     uygulaması yaparak <strong>Html kodları</strong>n nasıl uygulanabileceğini görmüş olduk. Başlangıç seviyesinde olan bu anlatımla birlikte web tasarımcılar
@@ -248,12 +238,10 @@ Günümüzde kullanılan birçok web tarayıcı çeşidi bulunmaktadır. Bunlar 
     yaşanan gelişmeler, teknoloji dünyasına tablet, akıllı telefon gibi cihazların girmesiyle daha da artmış durumdadır. Bundan dolayı çalışmalarınızı güncel
     gelişmelere yönlendirmeniz sizin açınızdan ileriye dönük olarak yararlı bir davranış olacaktır.
 </p>
-<br/>
-<center><img alt="HTML Nedir?" class="img-responsive" title="HTML Nedir?" src="images/html-nedir-4.png"></center>
-<br/>
 
 
-   <a href="css-nedir"><h2 style="color:rgb(0, 186, 253);">CSS </h2>
+
+   <h2 style="color:rgb(0, 186, 253);">CSS </h2>
                
                 
             
@@ -262,7 +250,7 @@ Günümüzde kullanılan birçok web tarayıcı çeşidi bulunmaktadır. Bunlar 
                     <div class="theiaStickySidebar">
                         <article class="panel panel-default">
                             <div class="panel-heading mg-0">
-                                <h1 class="panel-title">CSS Hakkında Temel Bilgiler</h1>
+                                
                             </div>
                            
                                
@@ -275,7 +263,7 @@ Günümüzde kullanılan birçok web tarayıcı çeşidi bulunmaktadır. Bunlar 
                         </li>
                                         <div class="text">
                                         <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><strong>CSS Nedir?</strong><br>
+<h2 style="color:rgb(0, 186, 253);">  CSS nedir?</h2>
 <br>
 HTML bize metin bi&ccedil;imlendirme alan&#305;nda &ccedil;ok geni&#351; olanaklar sunar. CSS, uzun yaz&#305;l&#305;&#351;&#305;yla Cascading Style Sheets, veya T&uuml;rk&ccedil;esiyle Stil &#351;ablonlar&#305; ise bunu bir ad&#305;m daha &ouml;teye g&ouml;t&uuml;r&uuml;r, bize sayfalar&#305;m&#305;z i&ccedil;in global &#351;ablonlar haz&#305;rlama olana&#287;&#305; verdi&#287;i gibi, tek bir harfin stilini; yani renk,  font, b&uuml;y&uuml;kl&uuml;k gibi &ouml;zelliklerini de&#287;i&#351;tirmek i&ccedil;in de kullan&#305;labilir. Bu tekni&#287;in en &ouml;nemli &ouml;zelli&#287;i kullan&#305;m&#305;ndaki bu esnekli&#287;idir.<br>
 <br>
@@ -285,7 +273,7 @@ CSS kodlar&#305; HTML kodlar&#305;n&#305;n i&ccedil;ine yaz&#305;l&#305;rlar. T&
 <br>
 Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Explorer ve Firefox farkl&#305; yorumlar ortaya koyarlar. Bu noktada her iki browser'&#305;n da ayn&#305;/benzer yorumlayaca&#287;&#305; kodlar yazmak en uygunudur.<br>
 <br>
-<strong>L&#304;NK &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Link Özellikleri</h2>
 <br>
 <strong>a:</strong> Linkin, sayfa a&ccedil;&#305;ld&#305;&#287;&#305;nda t&#305;klanmadan veya &uuml;mle&ccedil; &uuml;zerine getirilmeden &ouml;nceki durumudur.<br>
 <strong>a:hover :</strong> Linkin imle&ccedil; &uuml;zerine getirildi&#287;indeki durumudur.<br>
@@ -299,7 +287,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>border:</strong> Linkin etraf&#305;na kenarl&#305;k ekler.<br>
 <strong>display:</strong> Linki i&ccedil;eren h&uuml;cre , sat&#305;r vb. istenilen alan&#305;n se&ccedil;ilmesini sa&#287;lar.<br>
 <br>
-<strong>L&#304;STE &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Liste Özellikleri</h2>
 <br>
 <strong>disk:</strong> Liste bi&ccedil;iminin disk (i&ccedil;i dolu daire) &#351;eklinde olmas&#305;n&#305; sa&#287;lar.<br>
 <strong>circle :</strong> Liste bi&ccedil;iminin &ccedil;ember &#351;eklinde olmas&#305;n&#305; sa&#287;lar.<br>
@@ -314,7 +302,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>Outside :</strong> Listenin ikinci sat&#305;r&#305;n&#305;n ilk sat&#305;r ile ayn&#305; yerden ba&#351;lamas&#305;n&#305; sa&#287;lar.<br>
 <strong>list-style-image :</strong> Liste bi&ccedil;iminin resim olmas&#305;n&#305; sa&#287;lar.<br>
 <br>
-<strong>KATMAN &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Katman Özellikleri</h2>
 <br>
 <strong>position:</strong> Katman&#305;n yerinin belirlenmesini sa&#287;lar.<br>
 <strong>absolute:</strong> Katman&#305;n yerinin pencere esas al&#305;narak belirlenmesini sa&#287;lar.<br>
@@ -334,7 +322,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>hidden:</strong> Katman&#305; gizler.<br>
 <strong>z-index :</strong> Katmanlar&#305;n alttan &uuml;ste do&#287;ru hangi s&#305;ra ile g&ouml;sterilece&#287;ini belirler.1 de&#287;eri katman&#305;n en altta olaca&#287;&#305;n&#305; belirtir.<br>
 <br>
-<strong>FONT &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Font Özellikleri</h2>
 <br>
 <strong>font-family: </strong>Yaz&#305; t&uuml;r&uuml;n&uuml; belirler.(Arial , Verdana gibi.)<br>
 <strong>font-style:</strong> Yaz&#305;n&#305;n normal veya sa&#287;a e&#287;ik olmas&#305;n&#305; sa&#287;lar.<br>
@@ -342,7 +330,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>font-weight:</strong> Yaz&#305;n&#305;n kal&#305;nl&#305;k-inceli&#287;ini belirler.<br>
 <strong>font-size:</strong> Yaz&#305;n&#305;n b&uuml;y&uuml;kl&uuml;&#287;&uuml;n&uuml; belirler.<br>
 <br>
-<strong>TEXT &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Text Özellikleri</h2>
 <br>
 <strong>word-spacing : </strong>Kelimeler aras&#305;nda b&#305;rak&#305;lacak bo&#351;lu&#287;u bo&#351;lu&#287;u belirler.<br>
 <strong>letter-spacing :</strong> Harfler aras&#305;nda b&#305;rak&#305;lacak bo&#351;lu&#287;u bo&#351;lu&#287;u belirler.<br>
@@ -367,7 +355,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>first-line :</strong> Metnin ilk sat&#305;r&#305;n&#305;n bi&ccedil;imlendirilmesini sa&#287;lar.<br>
 <strong>first-letter :</strong> Metnin ilk harfinin bi&ccedil;imlendirilmesini sa&#287;lar.<br>
 <br>
-<strong>&#304;MLE&Ccedil; &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">İmleç Özellikleri</h2>
 <br>
 <strong>crosshair:</strong> &#304;mlecin art&#305; i&#351;areti &#351;eklinde olmas&#305;n&#305; sa&#287;lar.<br>
 <strong>auto:</strong> &#304;mlecin metinde dikey &ccedil;izgi ,bo&#351; alanda normal ok &#351;eklinde olmas&#305;n&#305; sa&#287;lar.<br>
@@ -386,7 +374,7 @@ Hemen hemen her konuda oldu&#287;u gibi CSS konusunda da Microsoft Internet Expl
 <strong>wait:</strong> &#304;mlecin me&#351;gul animasyonuna d&ouml;n&uuml;&#351;mesini sa&#287;lar.<br>
 <strong>help:</strong> &#304;mlecin yard&#305;m-soru i&#351;aretine d&ouml;n&uuml;&#351;mesini sa&#287;lar<br>
 <br>
-<strong>ZEM&#304;N &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Zemin Özellikleri</h2>
 <br>
 <strong>background-color: </strong>Zeminin rengini belirler.<br>
 <strong>#color :</strong> Renk ad&#305;.<br>
@@ -409,7 +397,7 @@ background-position: Zemindeki resmin istenilen &#351;ekilde yerle&#351;tirilmes
 <strong>right:</strong> Resmi sa&#287;a yerle&#351;tirir.<br>
 <strong>&hellip;px :</strong> Resmin soldan istenilen &ouml;l&ccedil;&uuml;de i&ccedil;erde olmas&#305;n&#305; sa&#287;lar.<br>
 <br>
-<strong>TABLO &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Tablo Özellikleri</h2>
 <br>
 <strong>margin : </strong>Tablo ile pencerenin kenarlar&#305; aras&#305;nda b&#305;rak&#305;lacak bo&#351;lu&#287;u belirler.<br>
 <strong>margin-top :</strong> Tablo ile pencerenin &uuml;st kenar&#305; aras&#305;nda b&#305;rak&#305;lacak bo&#351;lu&#287;u belirler.<br>
@@ -456,7 +444,7 @@ background-position: Zemindeki resmin istenilen &#351;ekilde yerle&#351;tirilmes
 <br>
 <strong>NOT: </strong>Ba&#351;l&#305;k "TABLO" olarak verildi Ancak bu nitelikler ba&#351;ta TD, TR , TH vs. olmak &uuml;zere hemen her etiket i&ccedil;in kullan&#305;labilir.CSS' yi &ouml;zel k&#305;lan da zaten bu&hellip;<br>
 <br>
-<strong>KAYDIRMA &Ccedil;UBU?U &Ouml;ZELL&#304;KLER&#304;</strong><br>
+<h2 style="color:rgb(0, 186, 253);">Kaydırma  Özellikleri</h2>
 <br>
 <strong>scrollbar-face-color :</strong> Kayd&#305;rma &ccedil;ubu&#287;unun y&uuml;zey rengi , ayn&#305; zamanda zemini de etkiliyor.<br>
 <strong>scrollbar-base-color :</strong> Kayd&#305;rma &ccedil;ubu&#287;ununun sol ve &uuml;st kenarl&#305;klar&#305;n&#305; &ccedil;izgi halinde kapl&#305;yor.<br>
